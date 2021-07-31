@@ -2,12 +2,12 @@ class Note < ActiveRecord::Base
   # add associations here
   belongs_to :song
 
-  def song_name=(name)
+  # def song_name=(name)
 
-  end
+  # end
 
-  def song_name
+  # def song_name
 
-  end
-  
+  # end
+
 end

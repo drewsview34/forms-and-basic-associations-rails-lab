@@ -2,12 +2,12 @@ class Artist < ActiveRecord::Base
   # add associations here
   has_many :songs
 
-  def song_ids=(ids)
+  # def song_ids=(ids)
 
-  end
+  # end
 
-  def song_ids
+  # def song_ids
 
-  end
+  # end
 
 end
